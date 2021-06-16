@@ -2,7 +2,7 @@ class Config(object):
     def __init__(self):
         
         # experiment setting
-        self.name = "exp-4"
+        self.name = "exp-5"
         self.copy_data = "./experiments/exp-3/data"#None#
         self.load = None#'./experiments/exp-3/models/model.pt'#
         
